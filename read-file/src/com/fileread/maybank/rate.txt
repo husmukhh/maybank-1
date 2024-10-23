@@ -1,0 +1,4 @@
+rate-indicator  actual-rate
+rate1   3.2000
+rate2   3.5000
+rate3   3.6000

@@ -1,0 +1,4 @@
+account balance rate-indicator
+00005111    10000.00    rate3
+00005123    25000.30    rate1
+00005113    32000.00    rate2
